@@ -17,6 +17,6 @@
     {
         "package": "sandpaper",
         "url": "https://github.com/carpentries/sandpaper",
-        "branch": "main"
+        "branch": "use-r-universe"
     }
 ]
