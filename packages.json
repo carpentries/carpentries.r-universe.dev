@@ -7,7 +7,12 @@
     {
         "package": "pegboard",
         "url": "https://github.com/carpentries/pegboard",
-        "branch": "universe-test"
+        "branch": "main"
+    },
+    {
+        "package": "sandpaper",
+        "url": "https://github.com/carpentries/sandpaper",
+        "branch": "main"
     },
     {
         "package": "varnish",
