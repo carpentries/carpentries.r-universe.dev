@@ -18,5 +18,17 @@
         "package": "varnish",
         "url": "https://github.com/carpentries/varnish",
         "branch": "main"
+    },
+    {
+        "package": "gert",
+        "url": "https://github.com/r-lib/gert"
+    },
+    {
+        "package": "textshaping",
+        "url": "https://github.com/r-lib/textshaping"
+    },
+    {
+        "package": "stringi",
+        "url": "https://github.com/gagolews/stringi"
     }
 ]
