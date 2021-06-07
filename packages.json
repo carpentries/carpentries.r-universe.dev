@@ -1,23 +1,23 @@
 [
     {
         "package": "tinkr",
-        "url": "https://github.com/ropensci/tinkr",
-        "branch": "master"
+        "url": "https://github.com/ropensci/tinkr"
+    },
+    {
+        "package": "xml2",
+        "url": "https://github.com/r-lib/xml2"
     },
     {
         "package": "pegboard",
-        "url": "https://github.com/carpentries/pegboard",
-        "branch": "main"
+        "url": "https://github.com/carpentries/pegboard"
     },
     {
         "package": "sandpaper",
-        "url": "https://github.com/carpentries/sandpaper",
-        "branch": "main"
+        "url": "https://github.com/carpentries/sandpaper"
     },
     {
         "package": "varnish",
-        "url": "https://github.com/carpentries/varnish",
-        "branch": "main"
+        "url": "https://github.com/carpentries/varnish"
     },
     {
         "package": "gert",
