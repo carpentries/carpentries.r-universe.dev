@@ -31,6 +31,11 @@
         "branch": "*release"
     },
     {
+        "package": "openssl",
+        "url": "https://github.com/jeroen/openssl",
+        "branch": "*release"
+    },
+    {
         "package": "textshaping",
         "url": "https://github.com/r-lib/textshaping",
         "branch": "*release"
@@ -38,6 +43,11 @@
     {
         "package": "systemfonts",
         "url": "https://github.com/r-lib/systemfonts",
+        "branch": "*release"
+    },
+    {
+        "package": "ragg",
+        "url": "https://github.com/r-lib/ragg",
         "branch": "*release"
     },
     {
