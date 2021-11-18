@@ -5,7 +5,8 @@
     },
     {
         "package": "xml2",
-        "url": "https://github.com/r-lib/xml2"
+        "url": "https://github.com/r-lib/xml2",
+        "branch": "*release"
     },
     {
         "package": "pegboard",
@@ -21,14 +22,17 @@
     },
     {
         "package": "gert",
-        "url": "https://github.com/r-lib/gert"
+        "url": "https://github.com/r-lib/gert",
+        "branch": "*release"
     },
     {
         "package": "textshaping",
-        "url": "https://github.com/r-lib/textshaping"
+        "url": "https://github.com/r-lib/textshaping",
+        "branch": "*release"
     },
     {
         "package": "stringi",
-        "url": "https://github.com/gagolews/stringi"
+        "url": "https://github.com/gagolews/stringi",
+        "branch": "*release"
     }
 ]
