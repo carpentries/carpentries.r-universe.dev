@@ -36,6 +36,11 @@
         "branch": "*release"
     },
     {
+        "package": "systemfonts",
+        "url": "https://github.com/r-lib/systemfonts",
+        "branch": "*release"
+    },
+    {
         "package": "stringi",
         "url": "https://github.com/gagolews/stringi",
         "branch": "*release"
