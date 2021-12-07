@@ -4,6 +4,11 @@
         "url": "https://github.com/ropensci/tinkr"
     },
     {
+        "package": "xslt",
+        "url": "https://github.com/ropensci/xslt",
+        "branch": "*release"
+    },
+    {
         "package": "xml2",
         "url": "https://github.com/r-lib/xml2",
         "branch": "*release"
