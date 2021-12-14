@@ -56,6 +56,11 @@
         "branch": "*release"
     },
     {
+        "package": "httpuv",
+        "url": "https://github.com/rstudio/httpuv",
+        "branch": "*release"
+    },
+    {
         "package": "stringi",
         "url": "https://github.com/gagolews/stringi",
         "branch": "*release"
