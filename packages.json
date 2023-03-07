@@ -14,6 +14,11 @@
         "branch": "*release"
     },
     {
+        "package": "renv",
+        "url": "https://github.com/rstudio/renv",
+        "branch": "0.17.0-26"
+    },
+    {
         "package": "pegboard",
         "url": "https://github.com/carpentries/pegboard",
         "branch": "*release"
