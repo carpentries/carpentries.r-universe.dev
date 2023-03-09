@@ -16,7 +16,7 @@
     {
         "package": "renv",
         "url": "https://github.com/rstudio/renv",
-        "branch": "0.17.0-34"
+        "branch": "0.17.0-38"
     },
     {
         "package": "pegboard",
